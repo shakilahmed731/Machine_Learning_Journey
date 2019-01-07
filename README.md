@@ -12,7 +12,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 2 - Mathematics
 - [Backpropagation Explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
+  1. What is Backpropagation?
+  2. Hebian therory? in neuroscience
 - [Loss Functions Explained](https://www.youtube.com/watch?v=IVVVjBSk9N0)
+  1. what is a loss function?
 - [Research Paper to Code](https://youtu.be/pQyzdwHBbqo)
 - [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
